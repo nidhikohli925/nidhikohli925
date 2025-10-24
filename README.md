@@ -2,10 +2,10 @@
 
 With a background in dentistry and a passion for problem-solving, I’m transitioning into data analytics to bridge the gap between healthcare and technology. I enjoy transforming data into clear insights that support evidence-based decisions. Currently developing strong skills in Python, SQL, Excel, and Tableau to tell meaningful stories through data.
 **nidhikohli925/nidhikohli925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### My Focus
+## My Focus
 Data Visualization | story telling with data | Tableau
 
-### Featured Projects
+## Featured Projects
  # Analytics  Capstone - Chemicals in Cosmetics
 # Tableau Dashboards - https://public.tableau.com/views/SuperstoreVisualization_17597988814270/Sheet6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
  
