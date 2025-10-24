@@ -6,8 +6,8 @@ With a background in dentistry and a passion for problem-solving, I’m transiti
 Data Visualization | story telling with data | Tableau
 
 ### Featured Projects
- Analytics  Capstone - Chemicals in Cosmetics
- Tableau Dashboards - https://public.tableau.com/views/SuperstoreVisualization_17597988814270/Sheet6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+ # Analytics  Capstone - Chemicals in Cosmetics
+# Tableau Dashboards - https://public.tableau.com/views/SuperstoreVisualization_17597988814270/Sheet6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
  
 <!--
 Here are some ideas to get you started:
